@@ -1,1 +1,1 @@
-A simple todo app built that uses jQuery.
+A simple todo app built with jQuery.
